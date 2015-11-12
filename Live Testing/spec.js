@@ -24,7 +24,7 @@ describe('search', function() {
         //browser.takeScreenshot();
         
 		browser.takeScreenshot().then(function (png) {
-			writeScreenShot(png, '/Users/dominique/Documents/GitProjetFolder/protractor-browserstack/Live Testing/Screenshots/exception.png');
+			writeScreenShot(png, '/Users/dominique/Documents/GitProjetFolder/protractor-browserstack/Live Testing/Screenshots/exception1.png');
 		});
       });
   });
